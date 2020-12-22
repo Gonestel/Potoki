@@ -1,0 +1,13 @@
+C:\Users\NEON\source\repos\potoki\potoki\bin\Debug\netcoreapp3.1\potoki.exe
+C:\Users\NEON\source\repos\potoki\potoki\bin\Debug\netcoreapp3.1\potoki.deps.json
+C:\Users\NEON\source\repos\potoki\potoki\bin\Debug\netcoreapp3.1\potoki.runtimeconfig.json
+C:\Users\NEON\source\repos\potoki\potoki\bin\Debug\netcoreapp3.1\potoki.runtimeconfig.dev.json
+C:\Users\NEON\source\repos\potoki\potoki\bin\Debug\netcoreapp3.1\potoki.dll
+C:\Users\NEON\source\repos\potoki\potoki\bin\Debug\netcoreapp3.1\potoki.pdb
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.csprojAssemblyReference.cache
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.AssemblyInfoInputs.cache
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.AssemblyInfo.cs
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.csproj.CoreCompileInputs.cache
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.dll
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.pdb
+C:\Users\NEON\source\repos\potoki\potoki\obj\Debug\netcoreapp3.1\potoki.genruntimeconfig.cache
